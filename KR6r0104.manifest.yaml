@@ -1,0 +1,563 @@
+canonical_identifier: bkk:krp/KR6r0104/v1
+canonical_location: https://kanripo.org/bkk/KR6r0104/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛祖正傳古今捷錄
+  identifiers:
+    alt_id:
+    - X86n1595
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X86/X86n1595.xml
+    old_id: X86n1595
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0104_000.yaml, hash: 'sha256:06c22ae67570684fd83ff0eddf0069836626ad75b36cb7be9df2b4c2f1303faf'}
+  - {seq: 1, filename: KR6r0104_001.yaml, hash: 'sha256:866372d9a1146c3c10abc469921fbf999abccc0efbec92b6ea6ca8ab4eb76901'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0104_000.markers.yaml, hash: 'sha256:50cf015c18150402d8b34d8a0d0b112c2ad15dcda1efd5064f06ca6105844faa'}
+  - {seq: 1, role: markers, filename: assets/KR6r0104_001.markers.yaml, hash: 'sha256:c4cb518c5bc0dc3b152de5585b69d2aaef7a1f967a9e6ebc336c5f3160c00043'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0104_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1595-A 佛祖正傳古今捷錄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13816
+  label: 佛祖正傳古今捷錄附拈頌
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 初祖菩提達磨大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-2
+    span:
+    - body
+    - 320
+    - 320
+  label: 二祖慧可大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-3
+    span:
+    - body
+    - 678
+    - 678
+  label: 三祖僧燦大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-4
+    span:
+    - body
+    - 966
+    - 966
+  label: 四祖道信大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-5
+    span:
+    - body
+    - 1233
+    - 1233
+  label: 五祖黃梅弘忍大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-6
+    span:
+    - body
+    - 1520
+    - 1520
+  label: 六祖慧能大師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-7
+    span:
+    - body
+    - 1896
+    - 1896
+  label: 第一世南嶽懷讓禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-8
+    span:
+    - body
+    - 2154
+    - 2154
+  label: 第二世馬祖道一禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-9
+    span:
+    - body
+    - 2420
+    - 2420
+  label: 第三世百丈懷海禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-10
+    span:
+    - body
+    - 2686
+    - 2686
+  label: 第四世黃檗希運禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-11
+    span:
+    - body
+    - 2960
+    - 2960
+  label: 第五世臨濟義玄禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-12
+    span:
+    - body
+    - 3296
+    - 3296
+  label: 第六世興化存獎禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-13
+    span:
+    - body
+    - 3624
+    - 3624
+  label: 第七世南院慧顒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-14
+    span:
+    - body
+    - 3749
+    - 3749
+  label: 第八世風穴延沼禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-15
+    span:
+    - body
+    - 4090
+    - 4090
+  label: 第九世襄縣首山省念禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-16
+    span:
+    - body
+    - 4432
+    - 4432
+  label: 第十世汾陽善昭禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-17
+    span:
+    - body
+    - 4813
+    - 4813
+  label: 第十一世石霜楚圓慈明禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-18
+    span:
+    - body
+    - 5037
+    - 5037
+  label: 第十二世楊岐方會禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-19
+    span:
+    - body
+    - 5302
+    - 5302
+  label: 第十三世白雲守端禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-20
+    span:
+    - body
+    - 5522
+    - 5522
+  label: 第十四世蘄州五祖法演禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-21
+    span:
+    - body
+    - 5761
+    - 5761
+  label: 第十五世昭覺克勒禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-22
+    span:
+    - body
+    - 6069
+    - 6069
+  label: 第十六世虎丘紹隆禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-23
+    span:
+    - body
+    - 6257
+    - 6257
+  label: 第十七世應庵曇華禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-24
+    span:
+    - body
+    - 6509
+    - 6509
+  label: 第十八世密庵咸傑禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-25
+    span:
+    - body
+    - 6705
+    - 6705
+  label: 第十九世破庵祖先禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-26
+    span:
+    - body
+    - 6833
+    - 6833
+  label: 第二十世無準師範禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-27
+    span:
+    - body
+    - 7019
+    - 7019
+  label: 第二十一世雪巖祖欽禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-28
+    span:
+    - body
+    - 7222
+    - 7222
+  label: 第二十二世高峯原妙禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-29
+    span:
+    - body
+    - 7536
+    - 7536
+  label: 第二十三世中峯明本禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-30
+    span:
+    - body
+    - 7787
+    - 7787
+  label: 第二十四世千巖元長禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-31
+    span:
+    - body
+    - 8094
+    - 8094
+  label: 第二十五世萬峯時蔚禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-32
+    span:
+    - body
+    - 8457
+    - 8457
+  label: 第二十六世寶藏普持禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-33
+    span:
+    - body
+    - 8545
+    - 8545
+  label: 第二十七世東明慧旵禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-34
+    span:
+    - body
+    - 8735
+    - 8735
+  label: 第二十八世海舟普慈禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-35
+    span:
+    - body
+    - 9244
+    - 9244
+  label: 第二十九世寶峯明瑄禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-36
+    span:
+    - body
+    - 9543
+    - 9543
+  label: 第三十世天奇本瑞禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-37
+    span:
+    - body
+    - 9811
+    - 9811
+  label: 第三十一世絕學聞聰禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-38
+    span:
+    - body
+    - 10147
+    - 10147
+  label: 第三十二世笑巖德寶禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-39
+    span:
+    - body
+    - 10474
+    - 10474
+  label: 第三十三世幻有正傳禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-40
+    span:
+    - body
+    - 10787
+    - 10787
+  label: 第三十四世天童密雲圓悟禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-41
+    span:
+    - body
+    - 11318
+    - 11318
+  label: 第三十五世天童林野通奇禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-42
+    span:
+    - body
+    - 11785
+    - 11785
+  label: 第三十六世風穴雲峩行喜禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-43
+    span:
+    - body
+    - 12233
+    - 12233
+  label: 曹洞宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-44
+    span:
+    - body
+    - 12236
+    - 12236
+  label: 青原第五世洞山良价禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-45
+    span:
+    - body
+    - 12521
+    - 12521
+  label: 溈仰宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-46
+    span:
+    - body
+    - 12524
+    - 12524
+  label: 溈山靈祐禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-47
+    span:
+    - body
+    - 12645
+    - 12645
+  label: 雲門宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-48
+    span:
+    - body
+    - 12648
+    - 12648
+  label: 雲門文偃禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-49
+    span:
+    - body
+    - 12802
+    - 12802
+  label: 法眼宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-50
+    span:
+    - body
+    - 12805
+    - 12805
+  label: 曹溪第十世清凉文益禪師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0104_X_001-mulu-51
+    span:
+    - body
+    - 12971
+    - 12971
+  label: No. 1595-B 汝州風穴延沼禪師塔銘
+  type: mulu
+  level: 1
+hash: sha256:86cb51ac208af84fbdcd2b5d1b49411898f3dfc81a7ce8e7b37c36d67970ab8c
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
