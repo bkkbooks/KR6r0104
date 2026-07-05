@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0104_000.yaml, hash: 'sha256:06c22ae67570684fd83ff0eddf0069836626ad75b36cb7be9df2b4c2f1303faf'}
-  - {seq: 1, filename: KR6r0104_001.yaml, hash: 'sha256:866372d9a1146c3c10abc469921fbf999abccc0efbec92b6ea6ca8ab4eb76901'}
+  - {seq: 0, filename: KR6r0104_000.yaml, hash: 'sha256:0ec82622a3c170ef8abb80148ded409a138761fbb01243aceb6e1cf9482c50ae'}
+  - {seq: 1, filename: KR6r0104_001.yaml, hash: 'sha256:23077d358c2800f13576cc081a4069cc37b2fa4a74b337ccd2f5803dd982f099'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0104_000.markers.yaml, hash: 'sha256:50cf015c18150402d8b34d8a0d0b112c2ad15dcda1efd5064f06ca6105844faa'}
-  - {seq: 1, role: markers, filename: assets/KR6r0104_001.markers.yaml, hash: 'sha256:c4cb518c5bc0dc3b152de5585b69d2aaef7a1f967a9e6ebc336c5f3160c00043'}
+  - {seq: 0, role: markers, filename: assets/KR6r0104_000.markers.yaml, hash: 'sha256:e604c0890efdcc1c212843506a21dc4075201ea0b8bcb17a6755e69a3ef13c15'}
+  - {seq: 1, role: markers, filename: assets/KR6r0104_001.markers.yaml, hash: 'sha256:91f0adada2959f0aa375eb3c3d85ca9aa4cd5743826de4d586481263ace1a42f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -557,7 +557,4 @@ table_of_contents:
   label: No. 1595-B 汝州風穴延沼禪師塔銘
   type: mulu
   level: 1
-hash: sha256:86cb51ac208af84fbdcd2b5d1b49411898f3dfc81a7ce8e7b37c36d67970ab8c
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d95fbe7e68b14c87810fdd798ea86abada78162b620a9b4e7784e2bd2334b039
