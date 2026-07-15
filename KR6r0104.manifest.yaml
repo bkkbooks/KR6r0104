@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0104/v1
 canonical_location: https://kanripo.org/bkk/KR6r0104/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛祖正傳古今捷錄
   identifiers:
@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0104_000.yaml, hash: 'sha256:0ec82622a3c170ef8abb80148ded409a138761fbb01243aceb6e1cf9482c50ae'}
-  - {seq: 1, filename: KR6r0104_001.yaml, hash: 'sha256:23077d358c2800f13576cc081a4069cc37b2fa4a74b337ccd2f5803dd982f099'}
+  - {seq: 0, filename: KR6r0104_000.yaml, hash: 'sha256:7ac75f86a2e9a5efe794d18f60339af3258a5a3ca9139fbebc007d44cf15cc24'}
+  - {seq: 1, filename: KR6r0104_001.yaml, hash: 'sha256:7e15ef0ba3b590eb64130b98b96d0d2658f26adf22b2d5ac54535eb2f349bce8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0104_000.markers.yaml, hash: 'sha256:e604c0890efdcc1c212843506a21dc4075201ea0b8bcb17a6755e69a3ef13c15'}
-  - {seq: 1, role: markers, filename: assets/KR6r0104_001.markers.yaml, hash: 'sha256:91f0adada2959f0aa375eb3c3d85ca9aa4cd5743826de4d586481263ace1a42f'}
+  - {seq: 0, role: markers, filename: assets/KR6r0104_000.markers.yaml, hash: 'sha256:916bbac63ac78bb5b4901d81d969345de22c6e17f111ac935674965048746929'}
+  - {seq: 1, role: markers, filename: assets/KR6r0104_001.markers.yaml, hash: 'sha256:3cb302634df2e6bf46ee92d94a6c4ca5648de4c882dea16951f33630aa52c7a0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -557,4 +557,7 @@ table_of_contents:
   label: No. 1595-B 汝州風穴延沼禪師塔銘
   type: mulu
   level: 1
-hash: sha256:d95fbe7e68b14c87810fdd798ea86abada78162b620a9b4e7784e2bd2334b039
+hash: sha256:5468d9512a1012ff77172e5282d3e8aaf785bbf6046ffe65945ea575f66591e6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
