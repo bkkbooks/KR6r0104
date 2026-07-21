@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0104_000-X.yaml, hash: 'sha256:0ec82622a3c170ef8abb80148ded409a138761fbb01243aceb6e1cf9482c50ae'}
+  - {seq: 0, filename: KR6r0104_000-X.yaml, hash: 'sha256:bb85b457bfb771d5e2d588d121751c3b3731d395b8aee007d560d656ab8c1730'}
   - {seq: 1, filename: KR6r0104_001-X.yaml, hash: 'sha256:23077d358c2800f13576cc081a4069cc37b2fa4a74b337ccd2f5803dd982f099'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0104_000-X.markers.yaml, hash: 'sha256:c41e69f3e3f142c9f75a49e7ae98df80e3b0a1e8f6b7b900424244fa37d2405b'}
+  - {seq: 0, role: markers, filename: assets/KR6r0104_000-X.markers.yaml, hash: 'sha256:727dcf51c4e585afc03e8cc5924ca97b2b7a26af65cf4ab7cea77a76d48dd031'}
   - {seq: 1, role: markers, filename: assets/KR6r0104_001-X.markers.yaml, hash: 'sha256:ec2bfac3b3d9a37c03c73f033f5618ad02bdb486b34040449220198fd4bb20b4'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6r0104_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1595-A 佛祖正傳古今捷錄序
@@ -555,4 +555,4 @@ table_of_contents:
   label: No. 1595-B 汝州風穴延沼禪師塔銘
   type: mulu
   level: 1
-hash: sha256:7652f97833dc3d8bda4931ee13b57b3a01760b00c13a514b693c50402c4ce284
+hash: sha256:1cb96e1e47865290f35f2d7ca15f84c50a9be21d4923e4d4196796325deb44bd
